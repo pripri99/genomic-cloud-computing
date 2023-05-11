@@ -1,0 +1,10 @@
+11-May-23 11:33:03 - root - ERROR - Error in main execution: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: Access Denied
+11-May-23 11:41:13 - root - ERROR - Error in main execution: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: Access Denied
+11-May-23 11:44:35 - root - ERROR - Error in main execution: An error occurred (AccessDenied) when calling the ListObjects operation: Access Denied
+11-May-23 11:50:30 - root - ERROR - Error in main execution: An error occurred (AccessDenied) when calling the ListObjects operation: Access Denied
+11-May-23 11:51:58 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: 'SRR24441101.fastq'
+11-May-23 11:54:55 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: 'SRR24441101.fastq'
+11-May-23 11:59:07 - root - ERROR - Error in main execution: download_and_unzip_s3_file() got an unexpected keyword argument 'folder'
+11-May-23 11:59:35 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: 'dataset/SRR24441101.fastq.gz'
+11-May-23 12:01:28 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: 'dataset/SRR24441101.fastq_preprocessed.fastq'
+11-May-23 12:04:15 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: 'preprocessed/SRR24441101_preprocessed.fastq'

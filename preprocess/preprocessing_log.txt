@@ -1,0 +1,18 @@
+2023-05-11 12:08:31 - Preprocessed data saved to s3://alucloud76-genomic/preprocessed/SRR24441101_preprocessed.fastq
+2023-05-11 12:08:31 - High quality sequences: 70.22%
+2023-05-11 12:08:31 - Low quality sequences: 29.78%
+2023-05-11 12:22:21 - Preprocessed data saved to s3://alucloud76-genomic/preprocessed/SRR24441101_preprocessed.fastq
+2023-05-11 12:22:21 - High quality sequences: 70.22%
+2023-05-11 12:22:21 - Low quality sequences: 29.78%
+2023-05-11 13:05:17 - Preprocessed data saved to s3://alucloud76-genomic/preprocessed/SRR24441101_preprocessed.fastq
+2023-05-11 13:05:17 - High quality sequences: 70.22%
+2023-05-11 13:05:17 - Low quality sequences: 29.78%
+2023-05-11 13:08:29 - Preprocessed data saved to s3://alucloud76-genomic/preprocessed/SRR9999999_preprocessed.fastq
+2023-05-11 13:08:29 - High quality sequences: 70.22%
+2023-05-11 13:08:29 - Low quality sequences: 29.78%
+2023-05-11 13:17:36 - Preprocessed data saved to s3://alucloud76-genomic/preprocessed/SRR24441101_preprocessed.fastq
+2023-05-11 13:17:36 - High quality sequences: 70.22%
+2023-05-11 13:17:36 - Low quality sequences: 29.78%
+2023-05-11 13:23:45 - Preprocessed data saved to s3://alucloud76-genomic/preprocessed/SRR9999999_preprocessed.fastq
+2023-05-11 13:23:45 - High quality sequences: 70.22%
+2023-05-11 13:23:45 - Low quality sequences: 29.78%
